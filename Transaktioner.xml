@@ -1,0 +1,1309 @@
+<?xml version='1.0' encoding='UTF-8'?> <NewDataSet>
+  <Table>
+    <Bolag_id>784</Bolag_id>
+    <Orgnr>2007025311</Orgnr>
+    <Bolag>ALLIANCE OIL COMPANY LTD                </Bolag>
+    <Person_id>37554</Person_id>
+    <Insynsperson>Bazhaev, Musa                           </Insynsperson>
+    <Befattning>Större Innehavare        , Annan befattn dotterbolag</Befattning>
+    <Innehavare>Jur person          </Innehavare>
+    <Innehavare_id>42725</Innehavare_id>
+    <Namn_narstaende>BETINO INVESTMENTS LIMITED              </Namn_narstaende>
+    <Orgnr_narstaende>0</Orgnr_narstaende>
+    <Transaktion>Aktielån             </Transaktion>
+    <Datum>2012-02-27</Datum>
+    <Vardepapper>Svenskt Depåbevis                       </Vardepapper>
+    <ISIN-kod>SE0000739286</ISIN-kod>
+    <VP-namn>ALLIANCE OIL                  </VP-namn>
+    <Antal_x002F_belopp>10841</Antal_x002F_belopp>
+    <Totalt>37770141</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>784</Bolag_id>
+    <Orgnr>2007025311</Orgnr>
+    <Bolag>ALLIANCE OIL COMPANY LTD                </Bolag>
+    <Person_id>37553</Person_id>
+    <Insynsperson>Bazhaev, Mavlit                         </Insynsperson>
+    <Befattning>Annan befattning         , Större Innehavare        </Befattning>
+    <Innehavare>Jur person          </Innehavare>
+    <Innehavare_id>42725</Innehavare_id>
+    <Namn_narstaende>BETINO INVESTMENTS LIMITED              </Namn_narstaende>
+    <Orgnr_narstaende>0</Orgnr_narstaende>
+    <Transaktion>Aktielån             </Transaktion>
+    <Datum>2012-02-27</Datum>
+    <Vardepapper>Svenskt Depåbevis                       </Vardepapper>
+    <ISIN-kod>SE0000739286</ISIN-kod>
+    <VP-namn>ALLIANCE OIL                  </VP-namn>
+    <Antal_x002F_belopp>10841</Antal_x002F_belopp>
+    <Totalt>37770141</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>784</Bolag_id>
+    <Orgnr>2007025311</Orgnr>
+    <Bolag>ALLIANCE OIL COMPANY LTD                </Bolag>
+    <Person_id>37625</Person_id>
+    <Insynsperson>Bazhaev, Deni                           </Insynsperson>
+    <Befattning>Större Innehavare        </Befattning>
+    <Innehavare>Jur person          </Innehavare>
+    <Innehavare_id>42725</Innehavare_id>
+    <Namn_narstaende>BETINO INVESTMENTS LIMITED              </Namn_narstaende>
+    <Orgnr_narstaende>0</Orgnr_narstaende>
+    <Transaktion>Aktielån             </Transaktion>
+    <Datum>2012-02-27</Datum>
+    <Vardepapper>Svenskt Depåbevis                       </Vardepapper>
+    <ISIN-kod>SE0000739286</ISIN-kod>
+    <VP-namn>ALLIANCE OIL                  </VP-namn>
+    <Antal_x002F_belopp>10841</Antal_x002F_belopp>
+    <Totalt>37770141</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>818</Bolag_id>
+    <Orgnr>5562746726</Orgnr>
+    <Bolag>ARISE WINDPOWER AB (PUBL)               </Bolag>
+    <Person_id>39727</Person_id>
+    <Insynsperson>Nygren, Peter                           </Insynsperson>
+    <Befattning>Styrelseledamot          , VD                       </Befattning>
+    <Innehavare>Jur person          </Innehavare>
+    <Innehavare_id>42100</Innehavare_id>
+    <Namn_narstaende>NYHOLDING I MOTALA AB                   </Namn_narstaende>
+    <Orgnr_narstaende>5567958086</Orgnr_narstaende>
+    <Transaktion>Försäljning          </Transaktion>
+    <Datum>2012-02-24</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>SE0002095604</ISIN-kod>
+    <VP-namn>ARISE                         </VP-namn>
+    <Antal_x002F_belopp>-5000</Antal_x002F_belopp>
+    <Totalt>1088737</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>33288</Person_id>
+    <Insynsperson>Olsson, Jan                             </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>34806</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Försäljning          </Transaktion>
+    <Datum>2012-02-22</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>-3000</Antal_x002F_belopp>
+    <Totalt>16133</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>36901</Person_id>
+    <Insynsperson>Murray, Bradley                         </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>38642</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>965</Antal_x002F_belopp>
+    <Totalt>2834</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>40774</Person_id>
+    <Insynsperson>Olson, Scott                            </Insynsperson>
+    <Befattning>Annan befattn dotterbolag</Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>42669</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>643</Antal_x002F_belopp>
+    <Totalt>643</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>36896</Person_id>
+    <Insynsperson>Deimel, Andreas                         </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>38638</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>1000</Antal_x002F_belopp>
+    <Totalt>1000</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>41657</Person_id>
+    <Insynsperson>Campbell, William                       </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>38636</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>804</Antal_x002F_belopp>
+    <Totalt>804</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>41573</Person_id>
+    <Insynsperson>Patrick, Erin                           </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>43452</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>390</Antal_x002F_belopp>
+    <Totalt>390</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>38531</Person_id>
+    <Insynsperson>Brenner, Günter                         </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>40394</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>5333</Antal_x002F_belopp>
+    <Totalt>5333</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>41765</Person_id>
+    <Insynsperson>Löfvenholm, Johan                       </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>43664</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>1000</Antal_x002F_belopp>
+    <Totalt>1000</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>40218</Person_id>
+    <Insynsperson>Tangchitkusol, Keokarn                  </Insynsperson>
+    <Befattning>Annan befattn dotterbolag</Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>42079</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>1000</Antal_x002F_belopp>
+    <Totalt>2250</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>38854</Person_id>
+    <Insynsperson>Stern, Volker                           </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>40720</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>800</Antal_x002F_belopp>
+    <Totalt>800</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>36903</Person_id>
+    <Insynsperson>Rode, Steven                            </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>38644</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>1500</Antal_x002F_belopp>
+    <Totalt>2749</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>36939</Person_id>
+    <Insynsperson>Malmhagen, Pär                          </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>38676</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>2000</Antal_x002F_belopp>
+    <Totalt>2682</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>36898</Person_id>
+    <Insynsperson>Kohl, Jean-Marc                         </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>38639</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>1500</Antal_x002F_belopp>
+    <Totalt>1500</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>36891</Person_id>
+    <Insynsperson>Bentley, Jim                            </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>38634</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>1000</Antal_x002F_belopp>
+    <Totalt>3517</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>36902</Person_id>
+    <Insynsperson>Pekar, Raymond                          </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>38643</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>390</Antal_x002F_belopp>
+    <Totalt>4979</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>34600</Person_id>
+    <Insynsperson>Fredin, Steve                           </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>36194</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>4891</Antal_x002F_belopp>
+    <Totalt>5724</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>36407</Person_id>
+    <Insynsperson>Sjöbring, Lars                          </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>38132</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>7000</Antal_x002F_belopp>
+    <Totalt>7000</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>36895</Person_id>
+    <Insynsperson>Dahlén, Gunnar                          </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>38637</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>5000</Antal_x002F_belopp>
+    <Totalt>9583</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>33295</Person_id>
+    <Insynsperson>Wallin, Mats                            </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>34808</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>1250</Antal_x002F_belopp>
+    <Totalt>2508</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>33294</Person_id>
+    <Insynsperson>Wadell, Hannes                          </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>19685</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>1000</Antal_x002F_belopp>
+    <Totalt>2940</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>40259</Person_id>
+    <Insynsperson>Jensen, John                            </Insynsperson>
+    <Befattning>Annan befattn dotterbolag</Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>42131</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>643</Antal_x002F_belopp>
+    <Totalt>1486</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>37789</Person_id>
+    <Insynsperson>Matsunaga, Takayoshi                    </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>39572</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>1500</Antal_x002F_belopp>
+    <Totalt>3456</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>36900</Person_id>
+    <Insynsperson>Krönung, Stefan                         </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>38641</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>975</Antal_x002F_belopp>
+    <Totalt>3142</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>36909</Person_id>
+    <Insynsperson>Kaar, Henrik                            </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>38651</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>400</Antal_x002F_belopp>
+    <Totalt>992</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>33279</Person_id>
+    <Insynsperson>Carlson, Jan                            </Insynsperson>
+    <Befattning>Styrelseledamot          , VD                       </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>34795</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>20000</Antal_x002F_belopp>
+    <Totalt>47101</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>33287</Person_id>
+    <Insynsperson>Ödman, Mats                             </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>11502</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>5000</Antal_x002F_belopp>
+    <Totalt>17436</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>726</Bolag_id>
+    <Orgnr>2006018820</Orgnr>
+    <Bolag>AUTOLIV INC                             </Bolag>
+    <Person_id>33288</Person_id>
+    <Insynsperson>Olsson, Jan                             </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>34806</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Tilldelning          </Transaktion>
+    <Datum>2012-02-20</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>US0528001094</ISIN-kod>
+    <VP-namn>ALIV                          </VP-namn>
+    <Antal_x002F_belopp>5000</Antal_x002F_belopp>
+    <Totalt>19133</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>564</Bolag_id>
+    <Orgnr>5562411065</Orgnr>
+    <Bolag>AXIS AKTIEBOLAG (PUBL)                  </Bolag>
+    <Person_id>39449</Person_id>
+    <Insynsperson>Nilsson, Fredrik                        </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>24978</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Försäljning          </Transaktion>
+    <Datum>2012-02-24</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>SE0000672354</ISIN-kod>
+    <VP-namn>AXIS                          </VP-namn>
+    <Antal_x002F_belopp>-5000</Antal_x002F_belopp>
+    <Totalt>23500</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>763</Bolag_id>
+    <Orgnr>5565784724</Orgnr>
+    <Bolag>BE GROUP AB (PUBL)                      </Bolag>
+    <Person_id>35317</Person_id>
+    <Insynsperson>KARLSSON, ANDREAS                       </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>36961</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Aktiesparplan        </Transaktion>
+    <Datum>2012-02-24</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>SE0001852211</ISIN-kod>
+    <VP-namn>BE                            </VP-namn>
+    <Antal_x002F_belopp>1500</Antal_x002F_belopp>
+    <Totalt>9600</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>763</Bolag_id>
+    <Orgnr>5565784724</Orgnr>
+    <Bolag>BE GROUP AB (PUBL)                      </Bolag>
+    <Person_id>36098</Person_id>
+    <Insynsperson>Thuresson, Göran                        </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>37801</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Aktiesparplan        </Transaktion>
+    <Datum>2012-02-24</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>SE0001852211</ISIN-kod>
+    <VP-namn>BE                            </VP-namn>
+    <Antal_x002F_belopp>1000</Antal_x002F_belopp>
+    <Totalt>9450</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>763</Bolag_id>
+    <Orgnr>5565784724</Orgnr>
+    <Bolag>BE GROUP AB (PUBL)                      </Bolag>
+    <Person_id>35051</Person_id>
+    <Insynsperson>Clementz, Torbjörn                      </Insynsperson>
+    <Befattning>Vice VD                  </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>1977</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Aktiesparplan        </Transaktion>
+    <Datum>2012-02-24</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>SE0001852211</ISIN-kod>
+    <VP-namn>BE                            </VP-namn>
+    <Antal_x002F_belopp>4500</Antal_x002F_belopp>
+    <Totalt>313601</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>154</Bolag_id>
+    <Orgnr>5560427220</Orgnr>
+    <Bolag>H &amp; M HENNES &amp; MAURITZ AB (PUBL)        </Bolag>
+    <Person_id>42057</Person_id>
+    <Insynsperson>Westerstad, Stina                       </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>43977</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Innehavsanmälan      </Transaktion>
+    <Datum>2012-02-27</Datum>
+    <Vardepapper>Aktie                             B     </Vardepapper>
+    <ISIN-kod>SE0000106270</ISIN-kod>
+    <VP-namn>HM B                          </VP-namn>
+    <Antal_x002F_belopp>2220</Antal_x002F_belopp>
+    <Totalt>2220</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>154</Bolag_id>
+    <Orgnr>5560427220</Orgnr>
+    <Bolag>H &amp; M HENNES &amp; MAURITZ AB (PUBL)        </Bolag>
+    <Person_id>42057</Person_id>
+    <Insynsperson>Westerstad, Stina                       </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Maka/Make           </Innehavare>
+    <Innehavare_id>43980</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Innehavsanmälan      </Transaktion>
+    <Datum>2012-02-27</Datum>
+    <Vardepapper>Indikerar 0-innehav               *     </Vardepapper>
+    <ISIN-kod xml:space="preserve">            </ISIN-kod>
+    <VP-namn>H&amp;M *                         </VP-namn>
+    <Antal_x002F_belopp>0</Antal_x002F_belopp>
+    <Totalt>0</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>154</Bolag_id>
+    <Orgnr>5560427220</Orgnr>
+    <Bolag>H &amp; M HENNES &amp; MAURITZ AB (PUBL)        </Bolag>
+    <Person_id>42057</Person_id>
+    <Insynsperson>Westerstad, Stina                       </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Barn                </Innehavare>
+    <Innehavare_id>43981</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Innehavsanmälan      </Transaktion>
+    <Datum>2012-02-27</Datum>
+    <Vardepapper>Indikerar 0-innehav               *     </Vardepapper>
+    <ISIN-kod xml:space="preserve">            </ISIN-kod>
+    <VP-namn>H&amp;M *                         </VP-namn>
+    <Antal_x002F_belopp>0</Antal_x002F_belopp>
+    <Totalt>0</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>154</Bolag_id>
+    <Orgnr>5560427220</Orgnr>
+    <Bolag>H &amp; M HENNES &amp; MAURITZ AB (PUBL)        </Bolag>
+    <Person_id>42057</Person_id>
+    <Insynsperson>Westerstad, Stina                       </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Barn                </Innehavare>
+    <Innehavare_id>43982</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Innehavsanmälan      </Transaktion>
+    <Datum>2012-02-27</Datum>
+    <Vardepapper>Indikerar 0-innehav               *     </Vardepapper>
+    <ISIN-kod xml:space="preserve">            </ISIN-kod>
+    <VP-namn>H&amp;M *                         </VP-namn>
+    <Antal_x002F_belopp>0</Antal_x002F_belopp>
+    <Totalt>0</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>154</Bolag_id>
+    <Orgnr>5560427220</Orgnr>
+    <Bolag>H &amp; M HENNES &amp; MAURITZ AB (PUBL)        </Bolag>
+    <Person_id>30222</Person_id>
+    <Insynsperson>Persson, Madeleine                      </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>31595</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Köp                  </Transaktion>
+    <Datum>2012-02-24</Datum>
+    <Vardepapper>Aktie                             B     </Vardepapper>
+    <ISIN-kod>SE0000106270</ISIN-kod>
+    <VP-namn>HM B                          </VP-namn>
+    <Antal_x002F_belopp>5000</Antal_x002F_belopp>
+    <Totalt>33500</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>154</Bolag_id>
+    <Orgnr>5560427220</Orgnr>
+    <Bolag>H &amp; M HENNES &amp; MAURITZ AB (PUBL)        </Bolag>
+    <Person_id>42056</Person_id>
+    <Insynsperson>Giertz, Per-Axel                        </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>43976</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Innehavsanmälan      </Transaktion>
+    <Datum>2012-02-24</Datum>
+    <Vardepapper>Aktie                             B     </Vardepapper>
+    <ISIN-kod>SE0000106270</ISIN-kod>
+    <VP-namn>HM B                          </VP-namn>
+    <Antal_x002F_belopp>400</Antal_x002F_belopp>
+    <Totalt>400</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>154</Bolag_id>
+    <Orgnr>5560427220</Orgnr>
+    <Bolag>H &amp; M HENNES &amp; MAURITZ AB (PUBL)        </Bolag>
+    <Person_id>42056</Person_id>
+    <Insynsperson>Giertz, Per-Axel                        </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Sambo               </Innehavare>
+    <Innehavare_id>43978</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Innehavsanmälan      </Transaktion>
+    <Datum>2012-02-24</Datum>
+    <Vardepapper>Aktie                             B     </Vardepapper>
+    <ISIN-kod>SE0000106270</ISIN-kod>
+    <VP-namn>HM B                          </VP-namn>
+    <Antal_x002F_belopp>100</Antal_x002F_belopp>
+    <Totalt>100</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>154</Bolag_id>
+    <Orgnr>5560427220</Orgnr>
+    <Bolag>H &amp; M HENNES &amp; MAURITZ AB (PUBL)        </Bolag>
+    <Person_id>42056</Person_id>
+    <Insynsperson>Giertz, Per-Axel                        </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Barn                </Innehavare>
+    <Innehavare_id>43979</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Innehavsanmälan      </Transaktion>
+    <Datum>2012-02-24</Datum>
+    <Vardepapper>Indikerar 0-innehav               *     </Vardepapper>
+    <ISIN-kod xml:space="preserve">            </ISIN-kod>
+    <VP-namn>H&amp;M *                         </VP-namn>
+    <Antal_x002F_belopp>0</Antal_x002F_belopp>
+    <Totalt>0</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>3</Bolag_id>
+    <Orgnr>5560639147</Orgnr>
+    <Bolag>INVESTMENT AB ÖRESUND (PUBL)            </Bolag>
+    <Person_id>41953</Person_id>
+    <Insynsperson>Wahlberg, Marcus                        </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Maka/Make           </Innehavare>
+    <Innehavare_id>2462</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Inlösen              </Transaktion>
+    <Datum>2012-02-21</Datum>
+    <Vardepapper>Inlösenaktie                            </Vardepapper>
+    <ISIN-kod>SE0000252736</ISIN-kod>
+    <VP-namn>ORES IL                       </VP-namn>
+    <Antal_x002F_belopp>-11555</Antal_x002F_belopp>
+    <Totalt>0</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>266</Bolag_id>
+    <Orgnr>5562591205</Orgnr>
+    <Bolag>ORTIVUS AKTIEBOLAG (PUBL)               </Bolag>
+    <Person_id>42050</Person_id>
+    <Insynsperson>Johansson, Stefan                       </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>43972</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Innehavsanmälan      </Transaktion>
+    <Datum>2012-02-22</Datum>
+    <Vardepapper>Indikerar 0-innehav                     </Vardepapper>
+    <ISIN-kod xml:space="preserve">            </ISIN-kod>
+    <VP-namn>ORTI                          </VP-namn>
+    <Antal_x002F_belopp>0</Antal_x002F_belopp>
+    <Totalt>0</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>266</Bolag_id>
+    <Orgnr>5562591205</Orgnr>
+    <Bolag>ORTIVUS AKTIEBOLAG (PUBL)               </Bolag>
+    <Person_id>42049</Person_id>
+    <Insynsperson>Linder, Jonas                           </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>43971</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Innehavsanmälan      </Transaktion>
+    <Datum>2012-02-22</Datum>
+    <Vardepapper>Indikerar 0-innehav                     </Vardepapper>
+    <ISIN-kod xml:space="preserve">            </ISIN-kod>
+    <VP-namn>ORTI                          </VP-namn>
+    <Antal_x002F_belopp>0</Antal_x002F_belopp>
+    <Totalt>0</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>266</Bolag_id>
+    <Orgnr>5562591205</Orgnr>
+    <Bolag>ORTIVUS AKTIEBOLAG (PUBL)               </Bolag>
+    <Person_id>42051</Person_id>
+    <Insynsperson>Görjevik, Lars                          </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>35447</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Innehavsanmälan      </Transaktion>
+    <Datum>2012-02-22</Datum>
+    <Vardepapper>Indikerar 0-innehav                     </Vardepapper>
+    <ISIN-kod xml:space="preserve">            </ISIN-kod>
+    <VP-namn>ORTI                          </VP-namn>
+    <Antal_x002F_belopp>0</Antal_x002F_belopp>
+    <Totalt>0</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>476</Bolag_id>
+    <Orgnr>5564943446</Orgnr>
+    <Bolag>PROACT IT GROUP AB (PUBL)               </Bolag>
+    <Person_id>29587</Person_id>
+    <Insynsperson>Sand, Olof                              </Insynsperson>
+    <Befattning>VD                       </Befattning>
+    <Innehavare>Närstående          </Innehavare>
+    <Innehavare_id>43975</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Köp                  </Transaktion>
+    <Datum>2012-02-24</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>SE0000412991</ISIN-kod>
+    <VP-namn>PACT                          </VP-namn>
+    <Antal_x002F_belopp>310</Antal_x002F_belopp>
+    <Totalt>310</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>282</Bolag_id>
+    <Orgnr>5562778943</Orgnr>
+    <Bolag>PROFILGRUPPEN AB (PUBL)                 </Bolag>
+    <Person_id>33739</Person_id>
+    <Insynsperson>Svensson, Kjell                         </Insynsperson>
+    <Befattning>Styrelseledamot          </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>9980</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Köp                  </Transaktion>
+    <Datum>2012-02-24</Datum>
+    <Vardepapper>Aktie                             B     </Vardepapper>
+    <ISIN-kod>SE0000393860</ISIN-kod>
+    <VP-namn>PROFIL   B                    </VP-namn>
+    <Antal_x002F_belopp>3000</Antal_x002F_belopp>
+    <Totalt>8000</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>282</Bolag_id>
+    <Orgnr>5562778943</Orgnr>
+    <Bolag>PROFILGRUPPEN AB (PUBL)                 </Bolag>
+    <Person_id>179</Person_id>
+    <Insynsperson>STILLSTRÖM, BENGT                       </Insynsperson>
+    <Befattning>Större Innehavare        </Befattning>
+    <Innehavare>Jur person          </Innehavare>
+    <Innehavare_id>30316</Innehavare_id>
+    <Namn_narstaende>RINGVÄGEN VENTURES AB                   </Namn_narstaende>
+    <Orgnr_narstaende>5565990925</Orgnr_narstaende>
+    <Transaktion>Köp                  </Transaktion>
+    <Datum>2012-02-23</Datum>
+    <Vardepapper>Aktie                             B     </Vardepapper>
+    <ISIN-kod>SE0000393860</ISIN-kod>
+    <VP-namn>PROFIL   B                    </VP-namn>
+    <Antal_x002F_belopp>100000</Antal_x002F_belopp>
+    <Totalt>967933</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>601</Bolag_id>
+    <Orgnr>5565010997</Orgnr>
+    <Bolag>STUDSVIK AB (PUBL)                      </Bolag>
+    <Person_id>41874</Person_id>
+    <Insynsperson>JACKSON, ANDERS                         </Insynsperson>
+    <Befattning>VD                       , Styrelseledamot dotterbol</Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>43790</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Köp                  </Transaktion>
+    <Datum>2012-02-24</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>SE0000653230</ISIN-kod>
+    <VP-namn>SVIK                          </VP-namn>
+    <Antal_x002F_belopp>3000</Antal_x002F_belopp>
+    <Totalt>7505</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>601</Bolag_id>
+    <Orgnr>5565010997</Orgnr>
+    <Bolag>STUDSVIK AB (PUBL)                      </Bolag>
+    <Person_id>41874</Person_id>
+    <Insynsperson>JACKSON, ANDERS                         </Insynsperson>
+    <Befattning>VD                       , Styrelseledamot dotterbol</Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>43790</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Köp                  </Transaktion>
+    <Datum>2012-02-23</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>SE0000653230</ISIN-kod>
+    <VP-namn>SVIK                          </VP-namn>
+    <Antal_x002F_belopp>235</Antal_x002F_belopp>
+    <Totalt>4505</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>601</Bolag_id>
+    <Orgnr>5565010997</Orgnr>
+    <Bolag>STUDSVIK AB (PUBL)                      </Bolag>
+    <Person_id>25905</Person_id>
+    <Insynsperson>Edenius, Malte                          </Insynsperson>
+    <Befattning>Styrelseledamot dotterbol</Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>27081</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Köp                  </Transaktion>
+    <Datum>2012-02-22</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>SE0000653230</ISIN-kod>
+    <VP-namn>SVIK                          </VP-namn>
+    <Antal_x002F_belopp>2000</Antal_x002F_belopp>
+    <Totalt>102000</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>601</Bolag_id>
+    <Orgnr>5565010997</Orgnr>
+    <Bolag>STUDSVIK AB (PUBL)                      </Bolag>
+    <Person_id>25905</Person_id>
+    <Insynsperson>Edenius, Malte                          </Insynsperson>
+    <Befattning>Styrelseledamot dotterbol</Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>27081</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Köp                  </Transaktion>
+    <Datum>2012-02-21</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>SE0000653230</ISIN-kod>
+    <VP-namn>SVIK                          </VP-namn>
+    <Antal_x002F_belopp>3000</Antal_x002F_belopp>
+    <Totalt>100000</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>356</Bolag_id>
+    <Orgnr>5560150756</Orgnr>
+    <Bolag>SWEDISH MATCH AB (PUBL)                 </Bolag>
+    <Person_id>39325</Person_id>
+    <Insynsperson>Melker, Per                             </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>19539</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Försäljning          </Transaktion>
+    <Datum>2012-02-24</Datum>
+    <Vardepapper>Köpoption                               </Vardepapper>
+    <ISIN-kod xml:space="preserve">            </ISIN-kod>
+    <VP-namn>SWMA 130228 (172,68)          </VP-namn>
+    <Antal_x002F_belopp>-5971</Antal_x002F_belopp>
+    <Totalt>0</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>356</Bolag_id>
+    <Orgnr>5560150756</Orgnr>
+    <Bolag>SWEDISH MATCH AB (PUBL)                 </Bolag>
+    <Person_id>27525</Person_id>
+    <Insynsperson>Peyron, Fredrik                         </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>28836</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Försäljning          </Transaktion>
+    <Datum>2012-02-24</Datum>
+    <Vardepapper>Köpoption                               </Vardepapper>
+    <ISIN-kod xml:space="preserve">            </ISIN-kod>
+    <VP-namn>SWMA 130228 (172,68)          </VP-namn>
+    <Antal_x002F_belopp>-13741</Antal_x002F_belopp>
+    <Totalt>0</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>356</Bolag_id>
+    <Orgnr>5560150756</Orgnr>
+    <Bolag>SWEDISH MATCH AB (PUBL)                 </Bolag>
+    <Person_id>40369</Person_id>
+    <Insynsperson>Hellberg, Elisabeth                     </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>42250</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Köp                  </Transaktion>
+    <Datum>2012-02-24</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>SE0000310336</ISIN-kod>
+    <VP-namn>SWMA                          </VP-namn>
+    <Antal_x002F_belopp>755</Antal_x002F_belopp>
+    <Totalt>1005</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>356</Bolag_id>
+    <Orgnr>5560150756</Orgnr>
+    <Bolag>SWEDISH MATCH AB (PUBL)                 </Bolag>
+    <Person_id>29654</Person_id>
+    <Insynsperson>Dahlgren, Lars                          </Insynsperson>
+    <Befattning>VD                       </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>31000</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Optionslösen         </Transaktion>
+    <Datum>2012-02-23</Datum>
+    <Vardepapper>Köpoption                               </Vardepapper>
+    <ISIN-kod xml:space="preserve">            </ISIN-kod>
+    <VP-namn>SWMA 120229 (145,50)          </VP-namn>
+    <Antal_x002F_belopp>-3367</Antal_x002F_belopp>
+    <Totalt>884</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>356</Bolag_id>
+    <Orgnr>5560150756</Orgnr>
+    <Bolag>SWEDISH MATCH AB (PUBL)                 </Bolag>
+    <Person_id>29654</Person_id>
+    <Insynsperson>Dahlgren, Lars                          </Insynsperson>
+    <Befattning>VD                       </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>31000</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Optionslösen         </Transaktion>
+    <Datum>2012-02-23</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>SE0000310336</ISIN-kod>
+    <VP-namn>SWMA                          </VP-namn>
+    <Antal_x002F_belopp>3400</Antal_x002F_belopp>
+    <Totalt>14900</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>356</Bolag_id>
+    <Orgnr>5560150756</Orgnr>
+    <Bolag>SWEDISH MATCH AB (PUBL)                 </Bolag>
+    <Person_id>29654</Person_id>
+    <Insynsperson>Dahlgren, Lars                          </Insynsperson>
+    <Befattning>VD                       </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>31000</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Försäljning          </Transaktion>
+    <Datum>2012-02-23</Datum>
+    <Vardepapper>Köpoption                               </Vardepapper>
+    <ISIN-kod xml:space="preserve">            </ISIN-kod>
+    <VP-namn>SWMA 120229 (145,50)          </VP-namn>
+    <Antal_x002F_belopp>-884</Antal_x002F_belopp>
+    <Totalt>0</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>356</Bolag_id>
+    <Orgnr>5560150756</Orgnr>
+    <Bolag>SWEDISH MATCH AB (PUBL)                 </Bolag>
+    <Person_id>21409</Person_id>
+    <Insynsperson>Harrison, Emmett B.                     </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>22770</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Optionslösen         </Transaktion>
+    <Datum>2012-02-23</Datum>
+    <Vardepapper>Köpoption                               </Vardepapper>
+    <ISIN-kod xml:space="preserve">            </ISIN-kod>
+    <VP-namn>SWMA 120229 (145,50)          </VP-namn>
+    <Antal_x002F_belopp>-625</Antal_x002F_belopp>
+    <Totalt>0</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>356</Bolag_id>
+    <Orgnr>5560150756</Orgnr>
+    <Bolag>SWEDISH MATCH AB (PUBL)                 </Bolag>
+    <Person_id>21409</Person_id>
+    <Insynsperson>Harrison, Emmett B.                     </Insynsperson>
+    <Befattning>Annan befattning         </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>22770</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Optionslösen         </Transaktion>
+    <Datum>2012-02-23</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>SE0000310336</ISIN-kod>
+    <VP-namn>SWMA                          </VP-namn>
+    <Antal_x002F_belopp>631</Antal_x002F_belopp>
+    <Totalt>1631</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>839</Bolag_id>
+    <Orgnr>5565889101</Orgnr>
+    <Bolag>TRANSMODE HOLDING AB                    </Bolag>
+    <Person_id>41200</Person_id>
+    <Insynsperson>Nilsson, Torbjörn                       </Insynsperson>
+    <Befattning>Styrelseledamot          </Befattning>
+    <Innehavare>Eget                </Innehavare>
+    <Innehavare_id>19622</Innehavare_id>
+    <Namn_narstaende />
+    <Transaktion>Försäljning          </Transaktion>
+    <Datum>2012-02-24</Datum>
+    <Vardepapper>Aktie                                   </Vardepapper>
+    <ISIN-kod>SE0001471103</ISIN-kod>
+    <VP-namn>TRANSMODE                     </VP-namn>
+    <Antal_x002F_belopp>-8500</Antal_x002F_belopp>
+    <Totalt>29000</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>844</Bolag_id>
+    <Orgnr>5562584804</Orgnr>
+    <Bolag>VITEC SOFTWARE GROUP AB(PUBL)           </Bolag>
+    <Person_id>41397</Person_id>
+    <Insynsperson>Friedman, Jan                           </Insynsperson>
+    <Befattning>Styrelseledamot          </Befattning>
+    <Innehavare>Jur person          </Innehavare>
+    <Innehavare_id>31034</Innehavare_id>
+    <Namn_narstaende>JAN FRIEDMAN AB                         </Namn_narstaende>
+    <Orgnr_narstaende>5565727863</Orgnr_narstaende>
+    <Transaktion>Köp                  </Transaktion>
+    <Datum>2012-02-24</Datum>
+    <Vardepapper>Aktie                             B     </Vardepapper>
+    <ISIN-kod>SE0000514630</ISIN-kod>
+    <VP-namn>VITEC                         </VP-namn>
+    <Antal_x002F_belopp>50</Antal_x002F_belopp>
+    <Totalt>12267</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+  <Table>
+    <Bolag_id>844</Bolag_id>
+    <Orgnr>5562584804</Orgnr>
+    <Bolag>VITEC SOFTWARE GROUP AB(PUBL)           </Bolag>
+    <Person_id>41397</Person_id>
+    <Insynsperson>Friedman, Jan                           </Insynsperson>
+    <Befattning>Styrelseledamot          </Befattning>
+    <Innehavare>Jur person          </Innehavare>
+    <Innehavare_id>31034</Innehavare_id>
+    <Namn_narstaende>JAN FRIEDMAN AB                         </Namn_narstaende>
+    <Orgnr_narstaende>5565727863</Orgnr_narstaende>
+    <Transaktion>Köp                  </Transaktion>
+    <Datum>2012-02-23</Datum>
+    <Vardepapper>Aktie                             B     </Vardepapper>
+    <ISIN-kod>SE0000514630</ISIN-kod>
+    <VP-namn>VITEC                         </VP-namn>
+    <Antal_x002F_belopp>500</Antal_x002F_belopp>
+    <Totalt>12217</Totalt>
+    <Enhet>st </Enhet>
+    <Publiceringsdatum>2012-02-27</Publiceringsdatum>
+  </Table>
+</NewDataSet>
