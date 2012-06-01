@@ -1,0 +1,16 @@
+{
+  "author": "Simon Eriksson <k.simon.eriksson@gmail.com> (www.simoneriksson.org)"
+  , "name" : "InsiderWatcher"
+  , "description" : "Keeps track of all insiders in selected stocks"
+  , "version" : "1.0.0"
+  , "engines" : {
+      "node" : "~0.6.2"
+    }
+  , "dependencies" : {
+    "http-get" : "0.3.12"
+    , "nodemailer" : "0.3.20"
+    , "libxmljs" : "0.5.4"
+    , "mongojs" : "0.3.2"
+    , "log4js" : "0.4.2"
+  }
+}
