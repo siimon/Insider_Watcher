@@ -2,12 +2,13 @@ var insider_watcher = (function(){
   var fs = require('fs');
   var config = require('./config.js');
   var parser = require('libxml-to-js');
+  var logger = require('./logger.js').log;
   var configured_stocks = config.stocks;
   var fetcher = require('./get_insiders.js');
   var smtp = require('./mailer.js').mailer;
 
   var parse_file = function(filename,fn){
-      console.log(filename);
+      logger.debug(filename);
       fs.readFile(filename,'utf-8',function(err,data){
         parser(data,function(error,result){
           var insider_trans = [];
@@ -15,7 +16,7 @@ var insider_watcher = (function(){
             var nodeItem = result.Table[node];
             for(stock in configured_stocks){
               var pattern = new RegExp('^('+ configured_stocks[stock] + ')','i');
-              if(pattern.test(nodeItem['Vardepapper'])){
+              if(pattern.test(nodeItem['VP-namn'])){
                 insider_trans.push(nodeItem);
               }
             }
@@ -48,9 +49,9 @@ var insider_watcher = (function(){
 
     s = smtp.send(resultString,function(error){
       if(error){
-        console.log('Error sending mail');
+        logger.error('Error sending mail');
       }else{
-        console.log('Mail sent');
+        logger.debug('Mail sent');
       }
       fn(error);
     });
@@ -60,14 +61,14 @@ var insider_watcher = (function(){
         fetcher.fetcher.run(function(result,filename){
           if(result){
            parse_file(filename,function(error){
-             console.log('Parse completed.');
+             logger.debug('Parse completed.');
              if(error){
-               console.log('Error occured: '+ error);
+               logger.error('Error occured: '+ error);
              }
              process.exit();
            });
           }else{
-            console.log('Fetching insider transactions failed');
+            logger.debug('Fetching insider transactions failed');
           }
       });
     }
