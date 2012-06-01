@@ -4,6 +4,7 @@ var get_insiders = function()
     this.http = require('http-get');
     this.zipfile = require('zipfile');
     this.fs = require('fs');
+http://insynsok.fi.se/StartPage.aspx?searchtype=3&publdate=2012-05-22&format=zip&culture=sv-SE
 
     this.url_part1 ='http://insynsok.fi.se/StartPage.aspx?searchtype=3&publdate=';
     this.yesterday = new Date() ;
@@ -22,16 +23,12 @@ get_insiders.prototype.getDateWithZero = function (str){
 
 get_insiders.prototype.run = function(fn){
   var that = this;
-  this.http.get(this.url,'fetched_files/'+this.url_part2+'.zip',function(error, result){
-       if(error){
-        console.log(error);
-       }else{
-        that.unzip(result.file,function(result){
+  this.http.get(this.url,'fetched_files/'+this.url_part2+'.zip',function(error,result){
+       that.unzip(result.file,function(result){
           if(result){
             fn(true,'fetched_files/Transaktioner.xml');
           }
-        });
-       }
+       });
       });
 }
 
