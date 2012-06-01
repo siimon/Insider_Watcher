@@ -1,2 +1,3 @@
 node_modules/*
 /fetched_files/*
+config.js
