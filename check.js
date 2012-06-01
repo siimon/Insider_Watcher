@@ -2,7 +2,6 @@ var insider_watcher = (function(){
   var fs = require('fs');
   var config = require('./config.js');
   var parser = require('libxml-to-js');
-  var db = require('./mongo.js');
   var configured_stocks = config.stocks;
   var fetcher = require('./get_insiders.js');
   var smtp = require('./mailer.js').mailer;
